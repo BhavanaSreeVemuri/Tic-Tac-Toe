@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+#app {
+  border-radius: 20px solid black;
+}
+.outer-box {
+  border-radius: 20px solid black;
+  margin: 20px;
+}
+#row-id {
+  padding-bottom: 20px;
+}
